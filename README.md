@@ -9,7 +9,7 @@ where developers compete by trying to program according to provided specificatio
 HackerRank's programming challenges can be solved in a variety of programming languages and span multiple computer science domains.
 
 <b>About me :</b><br>
-I am a python developer . all the solutions are written on python itself ,<b> this is a running directory</b> which i am gonna update weekly after i solver more questions .
+I am a Aspiring Computer Vison and Deep learning engineer  and also a python developer .I have a <b>5 star ,Python Gold Batch in HackerRank </b> . all the solutions are written on python itself ,<b> this is a running directory</b> which i am gonna update weekly after i solver more questions .
 This repository is used for educational purpose only
 
 <b>contact me :</b><br>
