@@ -1,5 +1,5 @@
 # HackerRank-solutions
-This repository is only for educational purpose , i have uploaded answers for  questions which I solve on hackerRanknk
+This repository is only for educational purpose , i have uploaded answers for  questions which I solve on <strong>HackerRank<strong>
 
 <b>Note : This is a running directory i will upload new answers of different questions solved in python weekly <br></b>  
 
@@ -12,7 +12,7 @@ HackerRank's programming challenges can be solved in a variety of programming la
 I am a Aspiring Computer Vison and Deep learning engineer  and also a python developer .I have a <b>5 star ,Python Gold Batch in HackerRank </b> . all the solutions are written on python itself ,<b> This is a running directory</b> which i am gonna <b>update weekly</b> after i solver more questions .
 This repository is used for educational purpose only
 
-<b>contact me :</b><br>
+<b>Contact me :</b><br>
 instagram id  :  https://www.instagram.com/code.it29/  <br>
 linked in : https://www.linkedin.com/in/shouhaddo-paul-425b611a4/ <br>
 e-mail : Shouhaddopaul99@gmail.com
